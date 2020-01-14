@@ -1,0 +1,35 @@
+{
+    "download-base": "/torrent/",
+    "enable-download-base": "True",
+    "enable-torrentboza": "False",
+    "enable-torrentdal": "False",
+    "enable-torrentmap": "False",
+    "enable-torrentview": "True",
+    "enable-torrentwal": "True",
+    "history": {
+        "torrentboza_kortv_ent": 0,
+        "torrentboza_kortv_soc": 0,
+        "torrentdal_kortv_ent": 0,
+        "torrentdal_kortv_soc": 0,
+        "torrentmap_kortv_ent": 0,
+        "torrentmap_kortv_soc": 0,
+        "torrentview_kortv_ent": 0,
+        "torrentview_kortv_soc": 0,
+        "torrentwal_kortv_dra": 0,
+        "torrentwal_kortv_ent": 902050,
+        "torrentwal_kortv_soc": 106326,
+        "torrentwal_movie": 0
+    },
+    "movie": {
+        "download": "/torrent/movie/",
+        "list": "movie_list.txt",
+        "ranking": 8,
+        "resolution": "1080",
+        "video_codec": "264"
+    },
+    "page_scrwap_max": 15,
+    "trans-host": "***.iptime.org",
+    "trans-id": "",
+    "trans-port": "9091",
+    "trans-pw": ""
+}
